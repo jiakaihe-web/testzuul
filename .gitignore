@@ -1,0 +1,6 @@
+# Project exclude paths
+/ribbon3test3/target/
+/ribbon-test01/target/
+/ribbon-test02/target/
+/test-eureka/target/
+/test-zuul/target/
